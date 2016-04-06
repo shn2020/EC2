@@ -25,8 +25,5 @@ public class Demo {
 		System.out.println("Max = " + max);
 		System.out.println("Min = " + min);
 		System.out.println("Median = " + median);
-		
-		
-		
 	}
 }
